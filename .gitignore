@@ -1,6 +1,0 @@
-*.user
-*.aps
-/Libs/lib/
-/**/Temp/
-/**/media/Shaders/
-/**/.vs/
