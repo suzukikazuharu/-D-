@@ -34,6 +34,8 @@ namespace basecross {
 			CreateViewLight();
 
 			AddGameObject<Boxp>();
+			AddGameObject<Boxp>();
+
 
 
 
